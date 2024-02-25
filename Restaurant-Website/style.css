@@ -1,0 +1,24 @@
+html{
+    scroll-behavior: smooth;}
+body {
+    background-image:url('images/restauranrt.jpg');
+    background-size:cover; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family:'Roboto Condensed',sans-serif;}
+    
+p  { 
+    text-shadow: 0 5px 10px rgb(0, 0,0,1);
+    color: aliceblue; 
+    font-family:'Roboto Condensed',sans-serif;}
+
+
+
+
+nav {
+    text-shadow: 0 5px 10px rgb(0, 0,0,1);
+    color: aliceblue;
+    font-family:'Roboto Condensed',sans-serif;}
+a {
+    color: rgb(219, 123, 13);
+    font-family:'Roboto Condensed',sans-serif;}
